@@ -175,8 +175,8 @@ pip install -r requirements.txt
 
 ## 📄 License
 
-This project is developed for academic purposes at the University of Tlemcen.  
-Academic Year 2025–2026 — Software Engineering Module.
+This project is developed for academic purposes at Higher School in Applied Sciences-Tlemcen.  
+Academic Year 2025–2026 .
 
 ---
 
